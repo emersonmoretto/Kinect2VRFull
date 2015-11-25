@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 2a2883880ad042342aced72761b6f8d7
+labels:
+- Animals
+timeCreated: 1429016175
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beaver_B_Head
+    100004: Beaver_B_Hip
+    100006: Beaver_B_IK_L_Arm
+    100008: Beaver_B_IK_L_Leg
+    100010: Beaver_B_IK_R_Arm
+    100012: Beaver_B_IK_R_Leg
+    100014: Beaver_B_L_Ear_1
+    100016: Beaver_B_L_Ear_2
+    100018: Beaver_B_L_Eye
+    100020: Beaver_B_L_Fingers
+    100022: Beaver_B_L_Foot
+    100024: Beaver_B_L_Hand
+    100026: Beaver_B_L_LowerArm
+    100028: Beaver_B_L_LowerLeg
+    100030: Beaver_B_L_Toes
+    100032: Beaver_B_L_UpperArm
+    100034: Beaver_B_L_UpperLeg
+    100036: Beaver_B_R_Ear_1
+    100038: Beaver_B_R_Ear_2
+    100040: Beaver_B_R_Eye
+    100042: Beaver_B_R_Fingers
+    100044: Beaver_B_R_Foot
+    100046: Beaver_B_R_Hand
+    100048: Beaver_B_R_LowerArm
+    100050: Beaver_B_R_LowerLeg
+    100052: Beaver_B_R_Toes
+    100054: Beaver_B_R_UpperArm
+    100056: Beaver_B_R_UpperLeg
+    100058: Beaver_B_Spine
+    100060: Beaver_B_Tail_1
+    100062: Beaver_B_Tail_2
+    100064: Beaver_B_Tail_3
+    100066: Beaver_B_Tail_4
+    100068: Beaver_B_Tail_5
+    100070: Beaver_B_Tail_6
+    100072: Beaver_C_Head
+    100074: Beaver_C_Hip
+    100076: Beaver_C_L_Ear_1
+    100078: Beaver_C_L_Ear_2
+    100080: Beaver_C_L_Eye
+    100082: Beaver_C_L_Foot
+    100084: Beaver_C_L_Hand
+    100086: Beaver_C_L_Toes
+    100088: Beaver_C_Main
+    100090: Beaver_C_R_Ear_1
+    100092: Beaver_C_R_Ear_2
+    100094: Beaver_C_R_Eye
+    100096: Beaver_C_R_Fingers
+    100098: Beaver_C_R_Fingers 1
+    100100: Beaver_C_R_Foot
+    100102: Beaver_C_R_Hand
+    100104: Beaver_C_R_Toes
+    100106: Beaver_C_Spine
+    100108: Beaver_C_Tail_1
+    100110: Beaver_C_Tail_2
+    100112: Beaver_C_Tail_3
+    100114: Beaver_C_Tail_4
+    100116: Beaver_C_Tail_5
+    100118: Beaver_IK_L_Arm
+    100120: Beaver_IK_L_Leg
+    100122: Beaver_IK_R_Arm
+    100124: Beaver_IK_R_Leg
+    100126: Beaver_Mesh
+    400000: //RootNode
+    400002: Beaver_B_Head
+    400004: Beaver_B_Hip
+    400006: Beaver_B_IK_L_Arm
+    400008: Beaver_B_IK_L_Leg
+    400010: Beaver_B_IK_R_Arm
+    400012: Beaver_B_IK_R_Leg
+    400014: Beaver_B_L_Ear_1
+    400016: Beaver_B_L_Ear_2
+    400018: Beaver_B_L_Eye
+    400020: Beaver_B_L_Fingers
+    400022: Beaver_B_L_Foot
+    400024: Beaver_B_L_Hand
+    400026: Beaver_B_L_LowerArm
+    400028: Beaver_B_L_LowerLeg
+    400030: Beaver_B_L_Toes
+    400032: Beaver_B_L_UpperArm
+    400034: Beaver_B_L_UpperLeg
+    400036: Beaver_B_R_Ear_1
+    400038: Beaver_B_R_Ear_2
+    400040: Beaver_B_R_Eye
+    400042: Beaver_B_R_Fingers
+    400044: Beaver_B_R_Foot
+    400046: Beaver_B_R_Hand
+    400048: Beaver_B_R_LowerArm
+    400050: Beaver_B_R_LowerLeg
+    400052: Beaver_B_R_Toes
+    400054: Beaver_B_R_UpperArm
+    400056: Beaver_B_R_UpperLeg
+    400058: Beaver_B_Spine
+    400060: Beaver_B_Tail_1
+    400062: Beaver_B_Tail_2
+    400064: Beaver_B_Tail_3
+    400066: Beaver_B_Tail_4
+    400068: Beaver_B_Tail_5
+    400070: Beaver_B_Tail_6
+    400072: Beaver_C_Head
+    400074: Beaver_C_Hip
+    400076: Beaver_C_L_Ear_1
+    400078: Beaver_C_L_Ear_2
+    400080: Beaver_C_L_Eye
+    400082: Beaver_C_L_Foot
+    400084: Beaver_C_L_Hand
+    400086: Beaver_C_L_Toes
+    400088: Beaver_C_Main
+    400090: Beaver_C_R_Ear_1
+    400092: Beaver_C_R_Ear_2
+    400094: Beaver_C_R_Eye
+    400096: Beaver_C_R_Fingers
+    400098: Beaver_C_R_Fingers 1
+    400100: Beaver_C_R_Foot
+    400102: Beaver_C_R_Hand
+    400104: Beaver_C_R_Toes
+    400106: Beaver_C_Spine
+    400108: Beaver_C_Tail_1
+    400110: Beaver_C_Tail_2
+    400112: Beaver_C_Tail_3
+    400114: Beaver_C_Tail_4
+    400116: Beaver_C_Tail_5
+    400118: Beaver_IK_L_Arm
+    400120: Beaver_IK_L_Leg
+    400122: Beaver_IK_R_Arm
+    400124: Beaver_IK_R_Leg
+    400126: Beaver_Mesh
+    4300000: Beaver_Mesh
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Beaver_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Beaver_C_Main
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_L_UpperLeg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_L_UpperLeg/Beaver_B_L_LowerLeg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_L_UpperLeg/Beaver_B_L_LowerLeg/Beaver_B_IK_L_Leg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_R_UpperLeg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_R_UpperLeg/Beaver_B_R_LowerLeg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_B_R_UpperLeg/Beaver_B_R_LowerLeg/Beaver_B_IK_R_Leg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_L_UpperArm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_L_UpperArm/Beaver_B_L_LowerArm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_L_UpperArm/Beaver_B_L_LowerArm/Beaver_B_IK_L_Arm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_R_UpperArm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_R_UpperArm/Beaver_B_R_LowerArm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_B_R_UpperArm/Beaver_B_R_LowerArm/Beaver_B_IK_R_Arm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Ear_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Ear_1/Beaver_B_L_Ear_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Ear_1/Beaver_B_L_Ear_1/Beaver_C_L_Ear_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Ear_1/Beaver_B_L_Ear_1/Beaver_C_L_Ear_2/Beaver_B_L_Ear_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Eye
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_L_Eye/Beaver_B_L_Eye
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Ear_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Ear_1/Beaver_B_R_Ear_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Ear_1/Beaver_B_R_Ear_1/Beaver_C_R_Ear_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Ear_1/Beaver_B_R_Ear_1/Beaver_C_R_Ear_2/Beaver_B_R_Ear_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Eye
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Spine/Beaver_B_Spine/Beaver_C_Head/Beaver_B_Head/Beaver_C_R_Eye/Beaver_B_R_Eye
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3/Beaver_C_Tail_4
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3/Beaver_C_Tail_4/Beaver_B_Tail_4
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3/Beaver_C_Tail_4/Beaver_B_Tail_4/Beaver_C_Tail_5
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3/Beaver_C_Tail_4/Beaver_B_Tail_4/Beaver_C_Tail_5/Beaver_B_Tail_5
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_Hip/Beaver_B_Hip/Beaver_C_Tail_1/Beaver_B_Tail_1/Beaver_C_Tail_2/Beaver_B_Tail_2/Beaver_C_Tail_3/Beaver_B_Tail_3/Beaver_C_Tail_4/Beaver_B_Tail_4/Beaver_C_Tail_5/Beaver_B_Tail_5/Beaver_B_Tail_6
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Foot
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Foot/Beaver_B_L_Foot
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Foot/Beaver_B_L_Foot/Beaver_C_L_Toes
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Foot/Beaver_B_L_Foot/Beaver_C_L_Toes/Beaver_B_L_Toes
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Foot/Beaver_IK_L_Leg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Hand
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Hand/Beaver_B_L_Hand
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Hand/Beaver_B_L_Hand/Beaver_C_R_Fingers
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Hand/Beaver_B_L_Hand/Beaver_C_R_Fingers/Beaver_B_L_Fingers
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_L_Hand/Beaver_IK_L_Arm
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Foot
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Foot/Beaver_B_R_Foot
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Foot/Beaver_B_R_Foot/Beaver_C_R_Toes
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Foot/Beaver_B_R_Foot/Beaver_C_R_Toes/Beaver_B_R_Toes
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Foot/Beaver_IK_R_Leg
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Hand
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Hand/Beaver_B_R_Hand
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Hand/Beaver_B_R_Hand/Beaver_C_R_Fingers 1
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Hand/Beaver_B_R_Hand/Beaver_C_R_Fingers 1/Beaver_B_R_Fingers
+        weight: 1
+      - path: Beaver_C_Main/Beaver_C_R_Hand/Beaver_IK_R_Arm
+        weight: 1
+      - path: Beaver_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .270000011
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
